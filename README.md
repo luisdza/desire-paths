@@ -43,7 +43,9 @@ The main logic is implemented in [app.py](app.py). The key steps are:
 
 ## Example
 
-Here is an example of the original and processed images:
+Below are examples of the original and processed images:
 
 ![Original Image](sample-image/colis1911fig2.jpg)
 ![Processed Image](sample-image/processed.jpg)
+
+Original image source: [Information Research](https://informationr.net/ir/24-4/colis/colis1911.html)
